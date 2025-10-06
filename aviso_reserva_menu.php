@@ -1,4 +1,4 @@
-< class="container my-5">
+<section class="container my-5">
   <div class="p-3 rounded-4 shadow-lg bg-white w-75 mx-auto" style="height: auto; min-height: 350px; max-height: 500px;">
     <div class="row g-3 align-items-center">
       <!-- Imagem do bolo -->
@@ -14,3 +14,4 @@
       </div>
     </div>
   </div>
+</section>
