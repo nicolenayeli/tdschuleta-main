@@ -1,4 +1,6 @@
 
+<?php ?>
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -16,7 +18,7 @@
     <div class="col-md-12">
 <div class="card-header">
     <h4>Adicionar Usuario</h4>
-    <a href="index.php"></a>
+
     </div>
 <div class="card-bory">
     <form action="" method="$_POST">

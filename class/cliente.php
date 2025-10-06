@@ -57,7 +57,11 @@ public function setSenha(string $senha){
         }
         return false;
     }
+public function atualizar():bool{
 
+
+    
+}
 
     
 
