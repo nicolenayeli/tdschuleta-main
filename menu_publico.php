@@ -11,7 +11,7 @@ $tipos = $tipo_lista->fetchAll();
         <div class="container-fluid">
           <a href="index.html" class="navbar-brand">
             <img
-              src="images/logo-chuleta.png"
+              src="images/logo_docinhor.png"
               alt="Logotipo chuleta quente"
               width="190"
             />
