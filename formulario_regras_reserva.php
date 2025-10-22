@@ -98,7 +98,7 @@ include "menu_publico.php"
       </div>
 
       <div class="text-center">
-        <button type="submit" class="btn btn-primary btn-lg px-5">Confirmar Reserva</button>
+    <a href=""></a>
       </div>
     </form>
   </section>
